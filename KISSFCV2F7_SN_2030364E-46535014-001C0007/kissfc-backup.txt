@@ -1,8 +1,8 @@
 {
   "G_P": [
-    5.25,
-    5.95,
-    10.32
+    5,
+    5,
+    8
   ],
   "G_I": [
     0.035,
@@ -10,9 +10,9 @@
     0.05
   ],
   "G_D": [
-    14.5,
-    17.3,
-    0
+    12,
+    12,
+    5
   ],
   "ACCtrim": [
     0,
@@ -39,9 +39,9 @@
     0
   ],
   "TPA": [
-    0,
-    0,
-    0
+    0.4,
+    0.2,
+    0.4
   ],
   "RGB": [
     0,
@@ -86,7 +86,7 @@
     100,
     100
   ],
-  "ver": 129,
+  "ver": 127,
   "reverseMotors": 1,
   "launchMode": 0,
   "A_P": 4,
@@ -96,10 +96,10 @@
   "PPMchanOrder": 0,
   "CopterType": 2,
   "Active3DMode": 0,
-  "ESConeshot125": 7,
+  "ESConeshot125": 5,
   "MinCommand16": 1050,
   "MidCommand16": 1500,
-  "MinThrottle16": 1025,
+  "MinThrottle16": 1060,
   "MaxThrottle16": 2000,
   "TYmid16": 1500,
   "TYinv8": 0,
@@ -132,9 +132,9 @@
   "lapTimerTransponderId": 0,
   "loggerDebugVariables": 0,
   "YawCfilter": 35,
-  "vtxType": 3,
+  "vtxType": 2,
   "vtxPowerLow": 25,
-  "vtxPowerHigh": 800,
+  "vtxPowerHigh": 200,
   "motorBuzzer": 0,
   "loopTimeDivider": 0,
   "yawLpF": 1,
@@ -142,7 +142,7 @@
   "adaptiveFilter": 1,
   "ledBrightness": 100,
   "setpointIntoD": 100,
-  "ESCOutputLayout": 6,
+  "ESCOutputLayout": 7,
   "SerialSetup": 4028692223,
   "osdConfig": 2,
   "rthReturnAltitude": 0,
@@ -153,6 +153,5 @@
   "rthMinThrottle": 0,
   "rthHomeAction": 0,
   "rthReturnSpeed": 0,
-  "nonStandardDshot": 0,
-  "BECvoltage": 0
+  "nonStandardDshot": 0
 }

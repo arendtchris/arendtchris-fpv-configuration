@@ -19,7 +19,7 @@
     0
   ],
   "RC_Rate": [
-    1.2,
+    1.25,
     1.15,
     1.25
   ],
@@ -127,7 +127,7 @@
   "vbatAlarm": 21,
   "debugVariables": 0,
   "mahAlarm": 1300,
-  "lipoConnected": 1,
+  "lipoConnected": 0,
   "lapTimerTypeAndInterface": 0,
   "lapTimerTransponderId": 0,
   "loggerDebugVariables": 0,
