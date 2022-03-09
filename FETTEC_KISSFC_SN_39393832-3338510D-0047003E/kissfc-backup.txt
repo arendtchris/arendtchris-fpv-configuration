@@ -1,7 +1,7 @@
 {
   "G_P": [
-    6.55,
-    6.95,
+    5,
+    5.25,
     8.3
   ],
   "G_I": [
@@ -10,8 +10,8 @@
     0.05
   ],
   "G_D": [
-    11.5,
-    11.5,
+    10.25,
+    10.5,
     0
   ],
   "ACCtrim": [
@@ -132,7 +132,7 @@
   "lapTimerTransponderId": 0,
   "loggerDebugVariables": 0,
   "YawCfilter": 35,
-  "vtxType": 4,
+  "vtxType": 3,
   "vtxPowerLow": 25,
   "vtxPowerHigh": 800,
   "motorBuzzer": 1,
@@ -141,8 +141,8 @@
   "DLpF": 1,
   "adaptiveFilter": 1,
   "ledBrightness": 100,
-  "setpointIntoD": 0,
-  "ESCOutputLayout": 4,
+  "setpointIntoD": 100,
+  "ESCOutputLayout": 7,
   "SerialSetup": 4028692223,
   "osdConfig": 2,
   "rthReturnAltitude": 50,
