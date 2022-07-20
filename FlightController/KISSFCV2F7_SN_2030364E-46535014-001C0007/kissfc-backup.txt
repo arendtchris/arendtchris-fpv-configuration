@@ -1,7 +1,7 @@
 {
   "G_P": [
-    5.5,
-    5.6,
+    5.75,
+    5.8,
     8
   ],
   "G_I": [
@@ -10,8 +10,8 @@
     0.05
   ],
   "G_D": [
-    11,
-    11,
+    11.5,
+    11.6,
     5
   ],
   "ACCtrim": [
@@ -110,11 +110,11 @@
   "BoardRotation": 0,
   "CustomTPAInfluence": 0,
   "TPABP1": 30,
-  "TPABP2": 50,
-  "TPABPI1": 30,
+  "TPABP2": 70,
+  "TPABPI1": 0,
   "TPABPI2": 0,
   "TPABPI3": 0,
-  "TPABPI4": 100,
+  "TPABPI4": 0,
   "BatteryInfluence": 0,
   "voltage1": 12.8,
   "voltage2": 14.8,
@@ -135,7 +135,7 @@
   "vtxType": 3,
   "vtxPowerLow": 25,
   "vtxPowerHigh": 800,
-  "motorBuzzer": 0,
+  "motorBuzzer": 1,
   "loopTimeDivider": 0,
   "yawLpF": 1,
   "DLpF": 1,
@@ -143,16 +143,16 @@
   "ledBrightness": 100,
   "setpointIntoD": 0,
   "ESCOutputLayout": 4,
-  "SerialSetup": 4028887295,
+  "SerialSetup": 4079612159,
   "osdConfig": 2,
   "rthReturnAltitude": 0,
-  "rthHomeAltitude": 40,
-  "rthDescentRadius": 200,
-  "rthHoverThrottle": 0,
-  "rthMaxThrottle": 0,
+  "rthHomeAltitude": 113,
+  "rthDescentRadius": 0,
+  "rthHoverThrottle": 2000,
+  "rthMaxThrottle": 2000,
   "rthMinThrottle": 0,
   "rthHomeAction": 0,
-  "rthReturnSpeed": 0,
+  "rthReturnSpeed": 131,
   "nonStandardDshot": 0,
   "BECvoltage": 0
 }
