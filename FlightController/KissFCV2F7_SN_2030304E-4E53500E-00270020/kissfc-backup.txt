@@ -142,7 +142,7 @@
   "adaptiveFilter": 1,
   "ledBrightness": 100,
   "setpointIntoD": 80,
-  "ESCOutputLayout": 4,
+  "ESCOutputLayout": 0,
   "SerialSetup": 4079612159,
   "osdConfig": 2,
   "rthReturnAltitude": 0,
