@@ -1,17 +1,17 @@
 {
   "G_P": [
-    5.5,
     5.6,
+    5.7,
     8
   ],
   "G_I": [
-    0.045,
-    0.045,
+    0.047,
+    0.047,
     0.05
   ],
   "G_D": [
-    11,
-    11,
+    11.1,
+    11.1,
     5
   ],
   "ACCtrim": [
@@ -19,19 +19,19 @@
     0
   ],
   "RC_Rate": [
-    1.14,
-    1.14,
-    1.2
+    1.29,
+    1.26,
+    1.08
   ],
   "RPY_Expo": [
-    0.7,
-    0.7,
-    0.7
+    0.75,
+    0.74,
+    0.67
   ],
   "RPY_Curve": [
-    0.24,
-    0.24,
-    0.26
+    0.21,
+    0.2,
+    0.07
   ],
   "ACCZero": [
     0,
@@ -39,9 +39,9 @@
     0
   ],
   "TPA": [
-    0.4,
-    0.2,
-    0.4
+    0,
+    0.095,
+    0
   ],
   "RGB": [
     0,
@@ -70,9 +70,9 @@
     0
   ],
   "DB": [
-    0,
-    0,
-    0
+    3,
+    3,
+    3
   ],
   "NFE": [
     0,
@@ -108,13 +108,13 @@
   "ESConeshot42": 0,
   "failsaveseconds": 0,
   "BoardRotation": 0,
-  "CustomTPAInfluence": 0,
-  "TPABP1": 30,
-  "TPABP2": 50,
-  "TPABPI1": 30,
+  "CustomTPAInfluence": 15,
+  "TPABP1": 27,
+  "TPABP2": 27,
+  "TPABPI1": 10,
   "TPABPI2": 0,
   "TPABPI3": 0,
-  "TPABPI4": 100,
+  "TPABPI4": 0,
   "BatteryInfluence": 0,
   "voltage1": 12.8,
   "voltage2": 14.8,
@@ -132,8 +132,8 @@
   "lapTimerTransponderId": 0,
   "loggerDebugVariables": 0,
   "YawCfilter": 35,
-  "vtxType": 3,
-  "vtxPowerLow": 25,
+  "vtxType": 2,
+  "vtxPowerLow": 400,
   "vtxPowerHigh": 800,
   "motorBuzzer": 0,
   "loopTimeDivider": 0,
@@ -141,9 +141,9 @@
   "DLpF": 1,
   "adaptiveFilter": 1,
   "ledBrightness": 100,
-  "setpointIntoD": 75,
-  "ESCOutputLayout": 4,
-  "SerialSetup": 4028887295,
+  "setpointIntoD": 85,
+  "ESCOutputLayout": 0,
+  "SerialSetup": 4079481087,
   "osdConfig": 2,
   "rthReturnAltitude": 9993,
   "rthHomeAltitude": 16640,
